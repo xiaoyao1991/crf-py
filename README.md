@@ -1,4 +1,4 @@
 crf-py
 ======
 
-CRF for Sequential Labeling
+CRF for Sequential Labeling, coming soon...
